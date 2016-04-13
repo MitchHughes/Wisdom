@@ -1,0 +1,2 @@
+# Wisdom
+Returns "fortunes"
